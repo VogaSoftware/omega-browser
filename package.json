@@ -1,0 +1,25 @@
+{
+  "name": "VogaOmegaBrowser",
+  "version": "1.3.2",
+  "description": "Minimilistic web technology experiments",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VogaSoftware/omega-browser.git"
+  },
+  "keywords": [
+    "Browser",
+    "Electron",
+    "Experiment",
+    "Web"
+  ],
+  "author": "Graham Dianaty (@gmdianaty)",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/VogaSoftware/omega-browser/issues"
+  },
+  "homepage": "http://deltaechovictor.cf/static/omega/browser/demo",
+  "dependencies": {
+    "electron": "*"
+  }
+}
